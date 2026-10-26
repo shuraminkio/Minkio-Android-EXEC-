@@ -75,8 +75,7 @@
             android:gravity="center"
             android:text="@string/tab_editor"
             android:textColor="@color/text_white"
-            android:textSize="@dimen/text_size_small"
-            android:selected="true" />
+            android:textSize="@dimen/text_size_small" />
 
         <TextView
             android:id="@+id/tabScripts"
