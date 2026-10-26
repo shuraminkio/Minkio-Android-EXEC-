@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.NebulaExecutor" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/accent_purple</item>
+        <item name="colorPrimaryContainer">@color/accent_purple</item>
+        <item name="colorOnPrimary">@color/text_white</item>
+        <item name="colorSecondary">@color/secondary_purple</item>
+        <item name="colorSecondaryContainer">@color/secondary_purple</item>
+        <item name="colorOnSecondary">@color/text_white</item>
+        <item name="colorSurface">@color/deep_black</item>
+        <item name="colorOnSurface">@color/text_white</item>
+        <item name="colorSurfaceVariant">@color/surface_dark</item>
+        <item name="colorOnSurfaceVariant">@color/text_white</item>
+        <item name="android:colorBackground">@color/deep_black</item>
+        <item name="android:windowBackground">@color/deep_black</item>
+        <item name="android:statusBarColor">@color/deep_black</item>
+        <item name="android:navigationBarColor">@color/deep_black</item>
+        <item name="android:textColorPrimary">@color/text_white</item>
+        <item name="android:textColorSecondary">@color/hint_gray</item>
+    </style>
+</resources>
