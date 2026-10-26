@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/fab_size"
+    android:layout_height="@dimen/fab_size">
+
+    <TextView
+        android:id="@+id/tvFab"
+        android:layout_width="@dimen/fab_size"
+        android:layout_height="@dimen/fab_size"
+        android:background="@drawable/bg_fab"
+        android:elevation="8dp"
+        android:gravity="center"
+        android:text="@string/fab_label"
+        android:textColor="@color/text_white"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-condensed" />
+
+</FrameLayout>
