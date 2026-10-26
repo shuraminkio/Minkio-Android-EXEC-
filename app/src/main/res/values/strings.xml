@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nebula Executor</string>
+    <string name="launch_executor">Launch Executor</string>
+    <string name="version_label">v1.0.0</string>
+    <string name="status_ready">Status: Ready</string>
+    <string name="status_checking">Checking permissions…</string>
+    <string name="overlay_permission_needed">Overlay permission is required</string>
+    <string name="nebula_title">NEBULA</string>
+    <string name="tab_editor">Editor</string>
+    <string name="tab_scripts">Scripts</string>
+    <string name="tab_console">Console</string>
+    <string name="tab_settings">Settings</string>
+    <string name="execute">Execute</string>
+    <string name="clear">Clear</string>
+    <string name="copy">Copy</string>
+    <string name="paste">Paste</string>
+    <string name="minimize">─</string>
+    <string name="close">✕</string>
+    <string name="editor_hint">-- Enter your Lua script here\n-- Nebula Executor v1.0</string>
+    <string name="console_welcome">[INFO] Nebula Executor v1.0.0 initialized\n[INFO] Awaiting script input…</string>
+    <string name="notification_channel_name">Nebula Executor Service</string>
+    <string name="notification_channel_desc">Keeps the floating executor overlay active</string>
+    <string name="setting_auto_execute">Auto-execute on connect</string>
+    <string name="setting_timestamps">Show console timestamps</string>
+    <string name="setting_font_size">Editor font size</string>
+    <string name="setting_auto_inject">Auto-inject on attach</string>
+    <string name="setting_topmost">Always on top</string>
+    <string name="fab_label">N</string>
+    <string name="no_script">No script to execute</string>
+    <string name="script_loaded">Script loaded into editor</string>
+    <string name="copied">Copied to clipboard</string>
+    <string name="pasted">Pasted from clipboard</string>
+    <string name="cleared">Editor cleared</string>
+</resources>
