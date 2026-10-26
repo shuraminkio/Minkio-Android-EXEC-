@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="deep_black">#FF0D0D0D</color>
+    <color name="accent_purple">#FF7C4DFF</color>
+    <color name="secondary_purple">#FFBB86FC</color>
+    <color name="surface_dark">#FF1A1A2E</color>
+    <color name="text_white">#FFFFFFFF</color>
+    <color name="console_green">#FF00FF41</color>
+    <color name="error_red">#FFFF5252</color>
+    <color name="warn_yellow">#FFFFAB40</color>
+    <color name="exec_purple">#FFCE93D8</color>
+    <color name="editor_bg">#FF121220</color>
+    <color name="panel_bg">#FF16162A</color>
+    <color name="tab_inactive">#FF2A2A40</color>
+    <color name="tab_active">#FF7C4DFF</color>
+    <color name="button_secondary">#FF2A2A40</color>
+    <color name="hint_gray">#FF666680</color>
+    <color name="comment_gray">#FF6A6A8A</color>
+    <color name="number_orange">#FFFFAB40</color>
+    <color name="string_green">#FF00E676</color>
+    <color name="keyword_purple">#FFBB86FC</color>
+    <color name="roblox_cyan">#FF18FFFF</color>
+    <color name="gradient_start">#FF7C4DFF</color>
+    <color name="gradient_end">#FF512DA8</color>
+    <color name="divider">#FF2A2A40</color>
+</resources>
